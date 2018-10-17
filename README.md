@@ -18,13 +18,13 @@ cat extensions.list | bash
 | ----------------- | -------------------- | ------ |
 | Show explorer     | Ctrl+Shift+E         |        |
 | Go to file        | Ctrl+P               |        |
-| Move line up/down | Alt+up/down          |        |
+| Move line up/down | Ctrl+up/down         | Atom   |
 | Delete line       | Ctrl+K               |        |
-| Find and replace  | Ctrl+Shift+H         |        |
+| Find and replace  | Ctrl+Shift+F         | Atom   |
 | Save All          | Ctrl+Alt+S           |        |
 | Uppercase         | Ctrl+Shift+P > Upper |        |
 | Lowercase         | Ctrl+Shift+P > Lower |        |
-| Preview markdown  | Ctrl+Shift+V         | Atom   |
+| Preview markdown  | Ctrl+Shift+M         | Atom   |
 
 
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
