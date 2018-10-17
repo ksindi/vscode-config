@@ -1,7 +1,6 @@
 code --install-extension DavidAnson.vscode-markdownlint
 code --install-extension mauve.terraform
-code --install-extension ms-kubernetes-tools.vscode-kubernetes-tools
 code --install-extension ms-python.python
+code --install-extension ms-vscode.atom-keybindings
 code --install-extension PeterJausovec.vscode-docker
-code --install-extension redhat.java
 code --install-extension redhat.vscode-yaml
