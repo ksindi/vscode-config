@@ -14,17 +14,17 @@ cat extensions.list | bash
 
 ## Useful shortcuts
 
-| Action            | Shortcut             |
-| ----------------- | -------------------- |
-| Show explorer     | Ctrl+Shift+E         |
-| Go to file        | Ctrl+P               |
-| Move line up/down | Alt+up/down          |
-| Delete line       | Ctrl+K               |
-| Find and replace  | Ctrl+Shift+H         |
-| Save All          | Ctrl+Alt+S         |
-| Uppercase         | Ctrl+Shift+P > Upper |
-| Lowercase         | Ctrl+Shift+P > Lower |
-| Preview markdown  | Ctrl+Shift+V         |
+| Action            | Shortcut             | Source |
+| ----------------- | -------------------- | ------ |
+| Show explorer     | Ctrl+Shift+E         |        |
+| Go to file        | Ctrl+P               |        |
+| Move line up/down | Alt+up/down          |        |
+| Delete line       | Ctrl+K               |        |
+| Find and replace  | Ctrl+Shift+H         |        |
+| Save All          | Ctrl+Alt+S           |        |
+| Uppercase         | Ctrl+Shift+P > Upper |        |
+| Lowercase         | Ctrl+Shift+P > Lower |        |
+| Preview markdown  | Ctrl+Shift+V         | Atom   |
 
 
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
