@@ -21,6 +21,7 @@ cat extensions.list | bash
 | Move line up/down | Alt+up/down          |
 | Delete line       | Ctrl+K               |
 | Find and replace  | Ctrl+Shift+H         |
+| Save All          | Ctrl+Alt+S         |
 | Uppercase         | Ctrl+Shift+P > Upper |
 | Lowercase         | Ctrl+Shift+P > Lower |
 | Preview markdown  | Ctrl+Shift+V         |
