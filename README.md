@@ -14,16 +14,4 @@ cat extensions.list | bash
 
 ## Useful shortcuts
 
-Using atom keybindings extension
-
-| Action           | Shortcut     | Source        |
-| ---------------- | ------------ | ------------- |
-| Find text        | ctrl+shift+f | atom          |
-| Copy line down   | ctrl+shift+d | atom          |
-| Move line up     | ctrl+up      | atom          |
-| Move line down   | ctrl+down    | atom          |
-| Uppercase        | ctrl+k+u     | atom          |
-| Lowercase        | ctrl+k+l     | atom          |
-| Preview markdown | ctrl+shift+m | atom          |
-
-https://github.com/nwinkler/atom-keyboard-shortcuts
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
